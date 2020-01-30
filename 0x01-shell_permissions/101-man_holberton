@@ -1,26 +1,22 @@
-.TH Caracola  nombre de la función/orden/programa y sección
+.TH man 2 "04 May 2015" "0.32" "holberton man page" 
 .SH NAME
-Orden de la función Descripción de la orden/función/programa
-Breve descripción de la función, orden o programa.
+.B holberton 
+- become a full-stack software engineer.
 .SH SYNOPSIS
-.B Nombre de la orden
-Opciones de la función (orden o programa) (caso de función)
+holberton
+[STUDENTNAME]
 .SH DESCRIPTION
-Descripción detallada de las ordenes y sus opciones.
-en el caso de una función se deben describir los parámetros de la interfaz
-Los parámetros se introducen con la opción .PP
+Holberton School is a project-based alternative to college for the next generation of software engineers. 
 .PP
-Este es un párrafo nuevo.
-Las nuevas líneas se introducen con .br
+
 .br
-Esta es una nueva línea
-.SH FILES
-Los ficheros que necesita la orden/función Por ejemplo la orden passwd(1)
-utiliza el fichero /etc/passwd.
+
+.SH OPTIONS
+.B holberton 
+does not take any option. However, you can supply studentname.
 .SH SEE ALSO
-Referencia a documentos afines, incluyendo otras páginas del manual.
+.I peerlearning(2), projectbased(2), fullstack(2), Betty(1)
 .SH BUGS
-Detalles sorprendentes (no siempre tienen que ser problemas)
+No known bugs.
 .SH AUTHOR
-Nombre del autor del programa, se suele incluir su nombre y la dirección de
-contacto, el email, normalmente.
+Julien barbier, Syvain kalache, Sophie Barbier, Guillaume Salva, Kris Bredemeier, Julien Cyr, Alex Gautier and all the Holberton.
