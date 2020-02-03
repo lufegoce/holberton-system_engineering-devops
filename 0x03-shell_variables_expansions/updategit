@@ -1,0 +1,13 @@
+#!/bin/bash
+git add .
+echo "Writring the commit"
+read commit
+git commit -m "$commit"
+git push -u origin master
+echo "Ready update github"#!/bin/bash
+git add .
+echo "Writring the commit"
+read commit
+git commit -m "$commit"
+git push -u origin master
+echo "Ready update github"
