@@ -1,2 +1,2 @@
 #!/bin/bash
-echo BINARY='inbase=2; onbase=10'
+echo $((2#10100111001))
